@@ -16,7 +16,7 @@ def print_logo():
     print(logo)
 
 def make_request():
-       
+    print("hi")  
 
 def generate_credit_card():
     cookies = {
